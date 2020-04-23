@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Tour-Rush/static/css/main.12ca103a.chunk.css",
+    "main.js": "/Tour-Rush/static/js/main.d96063e1.chunk.js",
+    "main.js.map": "/Tour-Rush/static/js/main.d96063e1.chunk.js.map",
+    "runtime-main.js": "/Tour-Rush/static/js/runtime-main.c7b86563.js",
+    "runtime-main.js.map": "/Tour-Rush/static/js/runtime-main.c7b86563.js.map",
+    "static/js/2.654fc7ba.chunk.js": "/Tour-Rush/static/js/2.654fc7ba.chunk.js",
+    "static/js/2.654fc7ba.chunk.js.map": "/Tour-Rush/static/js/2.654fc7ba.chunk.js.map",
+    "index.html": "/Tour-Rush/index.html",
+    "precache-manifest.14dd17197c8447247f3b19eb6bcd4f19.js": "/Tour-Rush/precache-manifest.14dd17197c8447247f3b19eb6bcd4f19.js",
+    "service-worker.js": "/Tour-Rush/service-worker.js",
+    "static/css/main.12ca103a.chunk.css.map": "/Tour-Rush/static/css/main.12ca103a.chunk.css.map",
+    "static/js/2.654fc7ba.chunk.js.LICENSE.txt": "/Tour-Rush/static/js/2.654fc7ba.chunk.js.LICENSE.txt",
+    "static/media/logo-white.png": "/Tour-Rush/static/media/logo-white.e994ad6d.png",
+    "static/media/nat-1-large.jpg": "/Tour-Rush/static/media/nat-1-large.7fdf2a88.jpg",
+    "static/media/App.scss": "/Tour-Rush/static/media/nat-7.5f846d16.jpg",
+    "static/media/nat-2-large.jpg": "/Tour-Rush/static/media/nat-2-large.7a25f199.jpg",
+    "static/media/nat-3-large.jpg": "/Tour-Rush/static/media/nat-3-large.417d3d74.jpg",
+    "static/media/nat-8.jpg": "/Tour-Rush/static/media/nat-8.14efd82b.jpg",
+    "static/media/nat-9.jpg": "/Tour-Rush/static/media/nat-9.b525a99b.jpg",
+    "static/media/video.mp4": "/Tour-Rush/static/media/video.ffcd876c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7b86563.js",
+    "static/js/2.654fc7ba.chunk.js",
+    "static/css/main.12ca103a.chunk.css",
+    "static/js/main.d96063e1.chunk.js"
+  ]
+}
